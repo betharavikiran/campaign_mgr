@@ -1,0 +1,8 @@
+{
+  "name": "campaigns",
+  "version": "0.0.1",
+  "dependencies": {
+    "react-spinners": "^0.2.5",
+    "truffle-hdwallet-provider": "0.0.3"
+  }
+}
